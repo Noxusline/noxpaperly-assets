@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "wallpapers": [
+    { "id": "plasma", "name": "Plasma", "category": "Abstract", "video": "videos/plasma.mp4", "thumb": "thumbs/plasma.jpg", "free": true },
+    { "id": "aurora", "name": "Aurora", "category": "Gradient", "video": "videos/aurora.mp4", "thumb": "thumbs/aurora.jpg", "free": true },
+    { "id": "waves", "name": "Waves", "category": "Gradient", "video": "videos/waves.mp4", "thumb": "thumbs/waves.jpg", "free": true },
+    { "id": "ripple", "name": "Ripple", "category": "Geometric", "video": "videos/ripple.mp4", "thumb": "thumbs/ripple.jpg", "free": true }
+  ]
+}
